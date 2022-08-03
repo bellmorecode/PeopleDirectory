@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "peopledir-client-side-solution",
+    "id": "e9716e00-a5ed-4b77-9a33-4c880a7cdd28",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "peopledir description"
+      },
+      "longDescription": {
+        "default": "peopledir description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "peopledir Feature",
+        "description": "The feature that activates elements of the peopledir solution.",
+        "id": "7848dccb-7d1b-4bc8-ba24-3cb8953eb70c",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/peopledir.sppkg"
+  }
+}
