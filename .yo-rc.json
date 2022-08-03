@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "peopledir",
+    "libraryId": "e9716e00-a5ed-4b77-9a33-4c880a7cdd28",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "peopledir",
+    "solutionShortDescription": "peopledir description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
