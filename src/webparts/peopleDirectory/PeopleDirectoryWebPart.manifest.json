@@ -1,4 +1,4 @@
-{
+cls{
   "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
   "id": "3dfaca37-8db0-4e2a-8932-6ac10aa3034f",
   "alias": "PeopleDirectoryWebPart",
@@ -18,11 +18,11 @@
   "preconfiguredEntries": [{
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Advanced
     "group": { "default": "Advanced" },
-    "title": { "default": "PeopleDirectory" },
-    "description": { "default": "PeopleDirectory description" },
+    "title": { "default": "People Directory" },
+    "description": { "default": "Explorer tool for People data in Office 365" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "PeopleDirectory"
+      "description": "People Directory"
     }
   }]
 }
